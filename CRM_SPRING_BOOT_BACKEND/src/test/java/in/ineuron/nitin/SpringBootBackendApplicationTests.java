@@ -1,4 +1,4 @@
-package in.ineuron.nitin;
+package in.demo.sai;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
